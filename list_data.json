@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Books": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "A Thousand Splendid Suns",
+			"Author": "Khaled Hosseini",
+			"Genre": "Novel",
+			"Publication Year": "2007"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Atomic Habits",
+			"Author": "James Clear",
+			"Genre": "Self-help",
+			"Publication Year": "2018"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Purple Hibiscus",
+			"Author": "Chimamanda Ngozi",
+			"Rating": "Fiction",
+			"Publication Year": "2003"
 		}
 	]
 }
